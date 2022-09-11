@@ -1,6 +1,9 @@
 
-# VS Code Debugger main parts
-(screenshot courtesy of Microsoft (https://code.visualstudio.com/docs/editor/debugging)
+## VS Code Debugger UX
+
+
+(_screenshot courtesy of Microsoft (https://code.visualstudio.com/docs/editor/debugging_)
+
 ![image](https://user-images.githubusercontent.com/2712405/189537110-0801f830-7e17-42ef-aefd-2b6d570472a9.png)
 
 The debugger user interface (presented by a click on the "bug" icon on the left navigation bar) consists of the following components:
@@ -15,6 +18,8 @@ The debugger user interface (presented by a click on the "bug" icon on the left 
 Note that the item 6 (Debug bar) changes color to red, whenever the VSCode debugger is active)
 
 ---
+
+## VS Code Debugger list of actions
 
 1. [Debugger extensions](https://code.visualstudio.com/docs/editor/debugging#_debugger-extensions)
 2. [Start debugging](https://code.visualstudio.com/docs/editor/debugging#_start-debugging)

@@ -4,7 +4,7 @@
 
 (_screenshot courtesy of Microsoft (https://code.visualstudio.com/docs/editor/debugging_)
 
-![image](https://user-images.githubusercontent.com/2712405/189537110-0801f830-7e17-42ef-aefd-2b6d570472a9.png)
+![image](https://user-images.githubusercontent.com/2712405/189540631-afe4aac8-b0bc-4b9d-831f-571060d26569.png)
 
 The debugger user interface (presented by a click on the "bug" icon on the left navigation bar) consists of the following components:
 
